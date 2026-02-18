@@ -1,4 +1,15 @@
-## Hi there 👋
+## About Me
+I attempt every day to inspire high school students in the fields of computer science, computer programming, and robotics! 
+
+I studied [Metallurgical Engineering](https://mse.utah.edu/met-e-bs-program-of-study) at the [University of Utah](https://www.utah.edu). I worked as an engineer and front-line supervisor at [Kennecott Utah Copper](https://www.riotinto.com/operations/kennecott) for three years.
+
+I have mentored [FIRST robotics](https://www.firstinspires.org) teams for 12 years and am currently working on creating a new team. I spent several years coaching and mentoring the [ALChemists Team 3405](https://www.team3405.info).
+
+Currently, I teach high school at [American Fork High School](https://afhs.alpineschools.org/o/american-fork-hs) and concurrent enrollment courses for [Utah Valley University](https://uvu.edu).
+
+##
+
+
 
 <!--
 **RobbyJJr/RobbyJJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
