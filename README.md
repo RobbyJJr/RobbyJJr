@@ -6,6 +6,7 @@ I studied [Metallurgical Engineering](https://mse.utah.edu/met-e-bs-program-of-s
 I have mentored [FIRST robotics](https://www.firstinspires.org) teams for 12 years and am currently working on creating a new team. I spent several years coaching and mentoring the [ALChemists Team 3405](https://www.team3405.info).
 
 Currently, I teach high school at [American Fork High School](https://afhs.alpineschools.org/o/american-fork-hs) and concurrent enrollment courses for [Utah Valley University](https://uvu.edu).
+
 ##
 
 
